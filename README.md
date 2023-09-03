@@ -2,7 +2,7 @@
 I am Hanh, and I have a keen interest in Robotics and Deep Learning. 
 I enjoy sharing my knowledge and what I am learning in these fields.
 
-![Hanh's github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanhpt23&show_icons=true&theme=radical&hide=contribs,prs,issues)
+![Hanh's github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanhpt23&show_icons=true&theme=shadow_blue&hide=contribs,prs,issues)
 
 <a href="https://github.com/Hanhpt23/Object-Detection-Yolov8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
