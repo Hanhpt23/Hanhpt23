@@ -2,6 +2,9 @@
 I am Hanh, and I have a keen interest in Robotics and Deep Learning. 
 I enjoy sharing my knowledge and what I am learning in these fields.
 
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanh-t-pham-398bb4223/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Hanhpt23)
+
 ![Hanh's github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanhpt23&show_icons=true&theme=shadow_blue&hide=contribs,prs,issues)
 
 <a href="https://github.com/Hanhpt23/Object-Detection-Yolov8">
