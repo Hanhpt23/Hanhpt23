@@ -4,7 +4,7 @@ I enjoy sharing my knowledge and what I am learning in these fields.
 
 ## How to reach me 📩 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanh-t-pham-398bb4223/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Hanhpt23) 
-[Email](tpham2023@my.fit.edu)
+[📩](tpham2023@my.fit.edu)
 
 ![Hanh's github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanhpt23&show_icons=true&theme=shadow_blue&hide=contribs,prs,issues)
 
