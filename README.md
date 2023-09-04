@@ -18,9 +18,9 @@ I enjoy sharing my knowledge and what I am learning in these fields.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=Object-Detection-Yolov8&theme=shadow_red" />
 </a>  
 
-<a href="https://github.com/Hanhpt23/Implement-Self-attention">
+<a href="https://github.com/Hanhpt23/Implement-Self-attention-Pytorch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=Implement-Self-attention&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=Implement-Self-attention-Pytorch&theme=shadow_red" />
 </a>  
 
 <a href="https://github.com/Hanhpt23/Vision-Transformer-Pytorch-from-Scratch">
