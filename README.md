@@ -19,9 +19,9 @@ I enjoy sharing my knowledge and what I am learning in these fields.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=SilVar&theme=shadow_red" />
 </a>  
 
-<a href="https://github.com/Hanhpt23/Vision-Transformer-Pytorch-from-Scratch">
+<a href="https://github.com/Hanhpt23/SilVarMed">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=Vision-Transformer-Pytorch-from-Scratch&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hanhpt23&repo=SilVarMed&theme=shadow_red" />
 </a>  
 
 <a href="https://github.com/Hanhpt23/ASR">
